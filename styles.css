@@ -1,0 +1,12 @@
+#container{
+    text-align: center;
+    font-size: 45px;
+}
+.button{
+    height: 50px;
+    width: 150px;
+    background-color: blue;
+    color: white;
+    border-radius: 20%;
+    position: relative;
+}
